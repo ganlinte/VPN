@@ -36,19 +36,25 @@ Github：https://github.com/MatsuriDayo/NekoBoxForAndroid
 
 Github：https://github.com/MetaCubeX/ClashMetaForAndroid
 
-## 6.v2rayN
+## 6.ClashX.Meta
+
+平台：`macOS`
+
+Github：https://github.com/MetaCubeX/ClashX.Meta
+
+## 7.v2rayN
 
 平台：`Windows`
 
 Github：https://github.com/2dust/v2rayN
 
-## 7.v2rayNG
+## 8.v2rayNG
 
 平台：`Andorid`
 
 Github：https://github.com/2dust/v2rayNG
 
-## 8.sing-box
+## 9.sing-box
 
 平台：`Windows`、`Linux`、`Andorid`
 
