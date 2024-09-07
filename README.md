@@ -47,3 +47,9 @@ Github：https://github.com/2dust/v2rayN
 平台：`Andorid`
 
 Github：https://github.com/2dust/v2rayNG
+
+## 8.sing-box
+
+平台：`Windows`、`Linux`、`Andorid`
+
+Github：https://github.com/SagerNet/sing-box
