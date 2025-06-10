@@ -52,3 +52,8 @@ VPN工具，代理工具，代理软件。
 |  mihomo-party   |  [Github](https://github.com/mihomo-party-org/mihomo-party)  |  维护中  |
 |   ClashX.Meta   |      [Github](https://github.com/MetaCubeX/ClashX.Meta)      |  维护中  |
 |   clash-verge   |      [Github](https://github.com/MetaCubeX/clash-verge)      | 停止维护 |
+
+# HarmonyOS NEXT
+|   名称   |                        链接                        |  状态  |
+| :------: | :------------------------------------------------: | :----: |
+| ClashBox | [Github](https://github.com/xiaobaigroup/ClashBox) | 维护中 |
