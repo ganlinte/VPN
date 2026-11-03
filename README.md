@@ -43,6 +43,7 @@ VPN工具，代理工具，代理软件。
 | :--------------------: | :--------------------------------------------------------: | :----: |
 |        FlClash         |       [Github](https://github.com/chen08209/FlClash)       | 维护中 |
 |        FlClashX        |      [Github](https://github.com/pluralplay/FlClashX)      | 维护中 |
+|        Slclash         |     [Github](https://github.com/songzhengpei/Slclash)      | 维护中 |
 | Clash Meta For Andorid | [Github](https://github.com/MetaCubeX/ClashMetaForAndroid) | 维护中 |
 |  NekoBox for Andorid   | [Github](https://github.com/MatsuriDayo/NekoBoxForAndroid) | 维护中 |
 |        v2rayNG         |         [Github](https://github.com/2dust/v2rayNG)         | 维护中 |
@@ -61,7 +62,7 @@ VPN工具，代理工具，代理软件。
 |      rover      |         [Github](https://github.com/roverlab/rover)          |  维护中  |
 |   clash-verge   |      [Github](https://github.com/MetaCubeX/clash-verge)      | 停止维护 |
 
-# HarmonyOS NEXT
+# HarmonyOS
 |   名称   |                        链接                        |  状态  |
 | :------: | :------------------------------------------------: | :----: |
 | ClashBox | [Github](https://github.com/xiaobaigroup/ClashBox) | 维护中 |
