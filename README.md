@@ -47,6 +47,7 @@ VPN工具，代理工具，代理软件。
 |  NekoBox for Andorid   | [Github](https://github.com/MatsuriDayo/NekoBoxForAndroid) | 维护中 |
 |        v2rayNG         |         [Github](https://github.com/2dust/v2rayNG)         | 维护中 |
 |        sing-box        |       [Github](https://github.com/SagerNet/sing-box)       | 维护中 |
+|      meow-android      |     [Github](https://github.com/meow-rs/meow-android)      | 维护中 |
 
 # macOS
 |      名称       |                             链接                             |   状态   |
