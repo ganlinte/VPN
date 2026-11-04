@@ -97,3 +97,9 @@ VPN工具，代理工具，代理软件。
 |   名称   |                        链接                        |  状态  |
 | :------: | :------------------------------------------------: | :----: |
 | ClashBox | [Github](https://github.com/xiaobaigroup/ClashBox) | 维护中 |
+
+# OpenHarmony
+
+|     名称     |                      链接                      |  状态  |
+| :----------: | :--------------------------------------------: | :----: |
+| FlClash-ohos | [Github](https://github.com/tljk/FlClash-ohos) | 维护中 |
