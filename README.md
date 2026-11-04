@@ -23,6 +23,10 @@ VPN工具，代理工具，代理软件。
 |      rover      |         [Github](https://github.com/roverlab/rover)          |  维护中  |
 |    ZenClash     |      [Github](https://github.com/HaiwenZhang/zenclash)       |  维护中  |
 |   pure-clash    |       [Github](https://github.com/prime-zt/pure-clash)       |  维护中  |
+|   hiddify-app   |       [Github](https://github.com/hiddify/hiddify-app)       |  维护中  |
+|   clash-party   |  [Github](https://github.com/mihomo-party-org/clash-party)   |  维护中  |
+|     karing      |         [Github](https://github.com/KaringX/karing)          |  维护中  |
+|     clashmi     |         [Github](https://github.com/KaringX/clashmi)         |  维护中  |
 |     Nekoray     |       [Github](https://github.com/MatsuriDayo/nekoray)       | 停止维护 |
 |   clash-verge   |      [Github](https://github.com/MetaCubeX/clash-verge)      | 停止维护 |
 
@@ -39,6 +43,9 @@ VPN工具，代理工具，代理软件。
 |        sing-box        |       [Github](https://github.com/SagerNet/sing-box)       | 维护中 |
 |      meow-android      |     [Github](https://github.com/meow-rs/meow-android)      | 维护中 |
 |      AngelaClash       |    [Github](https://github.com/dukangalex/AngelaClash)     | 维护中 |
+|      hiddify-app       |      [Github](https://github.com/hiddify/hiddify-app)      | 维护中 |
+|         karing         |        [Github](https://github.com/KaringX/karing)         | 维护中 |
+|        clashmi         |        [Github](https://github.com/KaringX/clashmi)        | 维护中 |
 
 # Linux
 
@@ -54,6 +61,10 @@ VPN工具，代理工具，代理软件。
 |      rover      |         [Github](https://github.com/roverlab/rover)          |  维护中  |
 |    ZenClash     |      [Github](https://github.com/HaiwenZhang/zenclash)       |  维护中  |
 |   pure-clash    |       [Github](https://github.com/prime-zt/pure-clash)       |  维护中  |
+|   hiddify-app   |       [Github](https://github.com/hiddify/hiddify-app)       |  维护中  |
+|   clash-party   |  [Github](https://github.com/mihomo-party-org/clash-party)   |  维护中  |
+|     karing      |         [Github](https://github.com/KaringX/karing)          |  维护中  |
+|     clashmi     |         [Github](https://github.com/KaringX/clashmi)         |  维护中  |
 |     Nekoray     |       [Github](https://github.com/MatsuriDayo/nekoray)       | 停止维护 |
 |   clash-verge   |      [Github](https://github.com/MetaCubeX/clash-verge)      | 停止维护 |
 
@@ -69,8 +80,17 @@ VPN工具，代理工具，代理软件。
 |   ClashX.Meta   |      [Github](https://github.com/MetaCubeX/ClashX.Meta)      |  维护中  |
 |      rover      |         [Github](https://github.com/roverlab/rover)          |  维护中  |
 |    ZenClash     |      [Github](https://github.com/HaiwenZhang/zenclash)       |  维护中  |
-|   pure-clash    |       [Github](https://github.com/prime-zt/pure-clash)       |  维护中  |
+|   hiddify-app   |       [Github](https://github.com/hiddify/hiddify-app)       |  维护中  |
+|   clash-party   |  [Github](https://github.com/mihomo-party-org/clash-party)   |  维护中  |
+|     karing      |         [Github](https://github.com/KaringX/karing)          |  维护中  |
+|     clashmi     |         [Github](https://github.com/KaringX/clashmi)         |  维护中  |
 |   clash-verge   |      [Github](https://github.com/MetaCubeX/clash-verge)      | 停止维护 |
+
+# IOS
+
+|    名称     |                       链接                       |  状态  |
+| :---------: | :----------------------------------------------: | :----: |
+| hiddify-app | [Github](https://github.com/hiddify/hiddify-app) | 维护中 |
 
 # HarmonyOS
 
