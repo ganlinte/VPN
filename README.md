@@ -94,9 +94,12 @@ VPN工具，代理工具，代理软件。
 
 # HarmonyOS
 
-|   名称   |                        链接                        |  状态  |
-| :------: | :------------------------------------------------: | :----: |
-| ClashBox | [Github](https://github.com/xiaobaigroup/ClashBox) | 维护中 |
+|         名称         |                              链接                               |  状态  |
+| :------------------: | :-------------------------------------------------------------: | :----: |
+|       ClashBox       |       [Github](https://github.com/xiaobaigroup/ClashBox)        | 维护中 |
+| lumine-for-harmonyos | [Github](https://github.com/SnishaperTeam/lumine-for-harmonyos) | 维护中 |
+|         Paws         |           [Github](https://github.com/richerfu/Paws)            | 维护中 |
+|    clash-harmony     |     [Github](https://github.com/andycaihello/clash-harmony)     | 维护中 |
 
 # OpenHarmony
 
